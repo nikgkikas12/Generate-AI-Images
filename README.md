@@ -23,13 +23,7 @@ Built with **Python + Tkinter + OpenAI API**, PolyGenix helps makers, designers,
 
 ## 🖥 Screenshot
 
-*(Add a screenshot here)*
-
-Example:
-
-```
-screenshots/app.png
-```
+<img width="497" height="746" alt="image" src="https://github.com/user-attachments/assets/930e597a-8fca-4fe8-9ccd-1d505bcdceb6" />
 
 ---
 
